@@ -31,6 +31,7 @@ public class Square extends Rectangle{
             super.setWidth(length);
         }
 
+
         @Override
         public String toString() {
             return "Square[" + super.toString();
